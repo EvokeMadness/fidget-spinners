@@ -1,7 +1,7 @@
 # Sensory Ring
 
-- Download from Printables here: [`Download Link`]()
-- Download from Thingiverse here: [`Download Link`]()
+- Download from Printables here: [`Download Link`](https://www.printables.com/model/1556645-sensory-ring)
+- Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:7271990)
 
 ## Summary
 
