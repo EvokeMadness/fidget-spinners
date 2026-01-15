@@ -1,28 +1,27 @@
-# Spelunky 2 LISE Keychain
+# Sensory Ring
 
-- Download from Printables here: [`Download Link`](https://www.printables.com/model/1553133-spelunky-2-lise-keychain)
-- Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:7269431)
+- Download from Printables here: [`Download Link`]()
+- Download from Thingiverse here: [`Download Link`]()
 
 ## Summary
 
-Mini LISE from Spelunky 2!
+Sensory ring with a satisfying divot!
 
 * * *
 
 # Summary
 
-Mini LISE from Spelunky 2! This model is a keychain version of my [Spelunky 2 LISE]() figure.
+Sensory ring with a satisfying divot! This model is based on my [Fidget Spinner]() design.
+
+- **What's Included:**
+	- 14 ring sizes, from size 3 to 16
+	- 1 Printable ring sizing tool
 
 # Print Settings
 
-- Supports: Yes
+- Supports: None
 - Infill: 15%
 - Brim: false
-
-# Bill of Materials
-
-- One ball chain with ball connector
-- One Mini Screw Eye Pin Peg
 
 * * *
 
@@ -30,4 +29,4 @@ Mini LISE from Spelunky 2! This model is a keychain version of my [Spelunky 2 LI
 
 ![](assets/preview.png)
 
-![](assets/preview-photo.jpg)
+![](assets/preview-ring-sizing-tool.png)
